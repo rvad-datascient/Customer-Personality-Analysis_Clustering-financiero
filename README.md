@@ -48,6 +48,15 @@ Este proyecto analiza clientes de una campaña de marketing, creando segmentos m
 │ ├── README.md
 │ └── .gitignore
 
+---
+
+## 🌐 Aplicación Web
+
+Ya puedes probar la aplicación en vivo aquí:
+
+👉 [Haz clic para abrir la app de predicción]([https://impagohipotecas.streamlit.app/](https://customer-personality-analysisclustering-financiero-nc4v8nmvjxk.streamlit.app/))
+
+---
 
 ## ▶️ Cómo ejecutar
 
