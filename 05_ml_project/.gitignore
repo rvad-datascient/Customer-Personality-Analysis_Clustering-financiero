@@ -9,7 +9,7 @@ venv/
 
 # Datos originales y archivos grandes
 01_Data/
-*.csv
+#*.csv
 #*.pkl
 #05_ml_project/*.pkl
 
